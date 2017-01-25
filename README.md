@@ -1,1 +1,1 @@
-parallax effect of different layers triggered by mouse movement.
+parallax effect of 2 image layers triggered by mouse movement.
